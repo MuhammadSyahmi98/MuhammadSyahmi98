@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Syahmi Bin Abdul Jalil
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning laravel framework and flutter to add my portfolio
-- 💞️ I’m looking to work as freelancer to build website and also apps for android and ios
+- 🌱 I’m working with laravel
+- 💞️ I’m looking to work as freelancer to build websitE
 - 📫 Can reach me by email to syahmijalil.my@gmail.com
 
 <!---
