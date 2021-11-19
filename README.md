@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Syahmi Bin Abdul Jalil
-- 👀 I’m interested in web and mobile development
+- 👀 I’m interested in web development
 - 🌱 I’m working with laravel
-- 💞️ I’m looking to work as freelancer to build websitE
+- 💞️ I’m looking to work as freelancer to build website
 - 📫 Can reach me by email to syahmijalil.my@gmail.com
 
 <!---
